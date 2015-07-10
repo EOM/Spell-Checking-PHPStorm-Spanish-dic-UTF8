@@ -1,0 +1,16 @@
+<!DOCTYPE idea-plugin PUBLIC "Plugin/DTD" "http://plugins.intellij.net/plugin.dtd">
+<idea-plugin>
+    <name>Spell Checker Spanish Dictionary</name>
+    <id>SpellChecker-Dict-Spanish</id>
+    <description>Standard Spanish dictionary for Spell Checker plugin</description>
+    <depends>SpellChecker</depends>
+    <version>1.0</version>
+    <vendor>Sergio de EOM Design Group - www.e-om.com.ar</vendor>
+    <idea-version since-build="7269"/>
+
+    <application-components>
+        <component>
+            <implementation-class>org.intellij.spellChecker.SpellCheckerSpanishDictionary</implementation-class>
+        </component>
+    </application-components>
+</idea-plugin>
