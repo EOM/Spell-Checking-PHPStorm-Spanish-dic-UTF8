@@ -14,7 +14,7 @@ Corrector ortográfico para textos en español en PHPStorm.
 
 ## English: Installation Manual (PhpStorm >= 8)
 
-Download "spanish-utf8.dic" and save it to the folder where you have installed PhpStorm "JetBrains/dic" (if there is no folder, create it).
-Open the "Settings" window of PhpStorm (from the "File" menu), and within the "Editor -> Spelling" section adds "spanish-utf8.dic" to the list of dictionaries:
+1. Download "spanish-utf8.dic" and save it to the folder where you have installed PhpStorm "JetBrains/dic" (if there is no folder, create it).
+2. Open the "Settings" window of PhpStorm (from the "File" menu), and within the "Editor -> Spelling" section adds "spanish-utf8.dic" to the list of dictionaries:
 
 ![Print config PHPStorm](http://s25.postimg.org/a9hknho4v/Print_de_pantalla_633.jpg)
